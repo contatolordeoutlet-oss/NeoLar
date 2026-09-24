@@ -1,4 +1,0 @@
-Salve aqui as fotos dos produtos numeradas, ex: 1.jpg, 2.jpg, 7.png, 27.webp...
-
-O número deve ser igual ao "id" do produto em js/data.js.
-Veja o arquivo LEIA-ME.md na pasta principal para mais detalhes.
